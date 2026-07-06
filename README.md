@@ -3,5 +3,5 @@
 Standalone thesis paper.
 
 - **File:** THESIS.md
-- **Author:** Samuel Lawson
+- **Author:** Sam Flynn
 - **Profile:** https://github.com/darksciencedivision-ctrl
