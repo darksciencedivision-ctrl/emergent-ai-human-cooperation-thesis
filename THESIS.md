@@ -1,4 +1,4 @@
-﻿# Emergent AI-Human Cooperation Through Adversarial Optimization: Testing Alignment Without Imposed Constraints
+# Emergent AI-Human Cooperation Through Adversarial Optimization: Testing Alignment Without Imposed Constraints
 
 **Samuel Lawson**  
 Independent Researcher  

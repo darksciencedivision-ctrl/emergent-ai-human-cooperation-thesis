@@ -14,6 +14,8 @@ Working thesis. Not peer reviewed.
 
 Samuel Lawson, Dark Science Division.
 
+- **Provenance:** originally published February 2026 by Samuel Lawson; this repository is the canonical maintained edition (original preserved at [emergent-cooperation-thesis](https://github.com/darksciencedivision-ctrl/emergent-cooperation-thesis)).
+
 ## License
 
 [CC BY 4.0](LICENSE) — Creative Commons Attribution 4.0 International.
@@ -21,3 +23,5 @@ Samuel Lawson, Dark Science Division.
 ## Citation
 
 See [CITATION.cff](CITATION.cff).
+
+**License:** CC BY-NC-ND 4.0 from this version forward. Versions published through commit `93200131` remain available under CC BY 4.0, which is irrevocable for those published versions.

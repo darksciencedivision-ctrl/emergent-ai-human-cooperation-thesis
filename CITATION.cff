@@ -1,4 +1,4 @@
-﻿cff-version: 1.2.0
+cff-version: 1.2.0
 message: "If you use this thesis or reference its ideas, please cite it as below."
 title: "Emergent AI-Human Cooperation Through Adversarial Optimization: Testing Alignment Without Imposed Constraints"
 authors:
@@ -16,6 +16,6 @@ abstract: >
   This thesis investigates whether AI–human cooperation can emerge as an
   optimization optimum through adversarial reasoning without imposed ethical
   constraints, using the RRR_DUAL_CYCLE experimental framework.
-license: CC-BY-4.0
+license: CC-BY-NC-ND-4.0
 version: "1.0.0"
 date-released: 2026-02-08
