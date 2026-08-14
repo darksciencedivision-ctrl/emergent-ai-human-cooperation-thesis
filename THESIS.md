@@ -1,6 +1,6 @@
 ﻿# Emergent AI-Human Cooperation Through Adversarial Optimization: Testing Alignment Without Imposed Constraints
 
-**Sam Flynn**  
+**Samuel Lawson**  
 Independent Researcher  
 https://github.com/darksciencedivision-ctrl
 

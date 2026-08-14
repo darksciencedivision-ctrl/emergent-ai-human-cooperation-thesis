@@ -2,8 +2,8 @@
 message: "If you use this thesis or reference its ideas, please cite it as below."
 title: "Emergent AI-Human Cooperation Through Adversarial Optimization: Testing Alignment Without Imposed Constraints"
 authors:
-  - family-names: Flynn
-    given-names: Sam
+  - family-names: Lawson
+    given-names: Samuel
     affiliation: Independent Researcher
 repository-code: "https://github.com/darksciencedivision-ctrl/emergent-ai-human-cooperation-thesis"
 keywords:
