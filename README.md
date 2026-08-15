@@ -18,7 +18,7 @@ Samuel Lawson, Dark Science Division.
 
 ## License
 
-[CC BY 4.0](LICENSE) — Creative Commons Attribution 4.0 International.
+[CC BY-NC-ND 4.0](LICENSE) — Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International. Earlier versions remain available under CC BY 4.0 (see note below).
 
 ## Citation
 
